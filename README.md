@@ -1,16 +1,110 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern full-stack **Event Ticketing Platform** built to simplify the process of event creation, management, and ticket booking.  
+The system supports **three distinct user roles** — User, Organizer, and Admin — each with their own powerful set of features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##link
 
-## React Compiler
+link:https://gala-frontends.onrender.com/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## login credintials
 
-## Expanding the ESLint configuration
+---#admin 
+email:rs200242@rguktsklm.ac.in
+password:Jessi@0531
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+----#orgnizer
+
+email:cseplacements@rguktsklm.ac.in
+password:Jessi@0531
+
+----#user
+email:siddhu.vakkapatla@gmail.com
+password:Jessi@0531
+
+## 👥 User Roles & Capabilities
+
+### 👤 User
+- Explore upcoming events with advanced **search and filter** options (by date, category, or location).  
+- Book tickets and choose from multiple ticket types (Standard, VIP, etc.).  
+- View and manage your **booking history**.  
+- Chat directly with the **integrated chatbot** for any inquiries or help.
+
+### 🧑‍💼 Organizer
+- Create, edit, and delete events easily.  
+- Define flexible **ticket types and pricing**.  
+- Track ticket sales and monitor remaining availability.  
+- **QR Code Scanner** to verify attendee tickets during entry.
+
+### 🛡️ Admin
+- Manage users, organizers, and events across the system.  
+- Approve or reject newly submitted event listings.  
+- Remove inappropriate content or accounts.  
+- Access **platform-wide statistics and reports** for monitoring and insights.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+- **React** – Component-driven user interfaces  
+- **Tailwind CSS** – Modern utility-first styling  
+- **JWT Authentication** – Secure user sessions  
+- **Axios** – API communication between frontend & backend  
+
+### 💾 Backend
+- **Express.js** – Scalable Node.js server framework  
+- **MongoDB** – NoSQL database for flexible data storage  
+- **Mongoose** – Elegant MongoDB object modeling  
+- **Git** – Version control and collaboration  
+
+---
+
+## 🛠️ Installation & Setup:
+
+1. Clone the repository and install dependencies:
+   ```bash
+   git clone https://github.com/Daniel-Nagyy/event-booking-system.git
+   npm i
+   npm start
+   cd frontend
+   npm run dev
+
+   
+---
+
+### 💡 Key Features
+
+✅ Secure JWT-based authentication
+
+✅ Role-based access control (User / Organizer / Admin)
+
+✅ Real-time ticket availability tracking
+
+✅ Chatbot for quick inquiries
+
+✅ QR Code ticket verification for event organizers
+
+✅ Clean and responsive UI using Tailwind CSS
+
+
+---
+
+### Screenshots
+
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s1" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s2" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s3" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s4" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s5" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s6" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s7" />
+
+
+
+
+
+
+
