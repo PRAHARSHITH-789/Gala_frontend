@@ -65,10 +65,10 @@ password:Jessi@0531
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/Daniel-Nagyy/event-booking-system.git
+   git clone https://github.com/PRAHARSHITH-789/Gala_frontend.git
    npm i
    npm start
-   cd frontend
+   cd client
    npm run dev
 
    
@@ -94,14 +94,13 @@ password:Jessi@0531
 ### Screenshots
 
 
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s1" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s2" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s3" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s4" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s5" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s6" />
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/s7" />
-
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s1.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s2.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s3.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s4.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s5.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s6.jpeg" />
+<img width="1919" height="866" alt="image" src="https://github.com/PRAHARSHITH-789/Gala_frontend/blob/main/src/assets/s7.jpeg" />
 
 
 
