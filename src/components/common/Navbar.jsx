@@ -6,7 +6,7 @@ const Navbar = () => {
   const { user, logout, isAuthenticated, isAdmin, isOrganizer, isUser } = useAuth();
   const navigate = useNavigate();
 
-  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api/v1';
+  const API_URL = import.meta.env.VITE_API_URL || 'https://gala-backend-1.onrender.com/api/v1';
 
   const handleLogout = async () => {
     await logout();

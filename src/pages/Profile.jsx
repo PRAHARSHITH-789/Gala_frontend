@@ -20,7 +20,7 @@ const Profile = () => {
   const [previewUrl, setPreviewUrl] = useState(null);
   const fileInputRef = useRef(null);
 
-  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api/v1';
+  const API_URL = import.meta.env.VITE_API_URL || 'https://gala-backend-1.onrender.com/api/v1';
 
   // ✅ Get profile picture with default
   const getProfilePicture = () => {
