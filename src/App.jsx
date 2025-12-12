@@ -4,7 +4,7 @@ import Navbar from './components/common/Navbar';
 import Footer from './components/common/Footer';
 import ProtectedRoute from './components/common/ProtectedRoute';
 import ErrorBoundary from './components/common/ErrorBoundary';
-import Chatbot from './components/chatbot/Chatbot';
+import Chatbot from './components/chatbot/ChatBot';
 
 // Pages
 import Home from './pages/Home';
